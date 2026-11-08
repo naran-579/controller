@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Seeed XIAO RP2040,1,Seeed,$4.90,$4.90,https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html
+PCB,1,JLCPCB,$22.80,$22.80,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 Estimated total shipping,1,,,$0.00,
