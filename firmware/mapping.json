@@ -1,0 +1,13 @@
+{
+  "xiao_in_right_grip": true,
+  "buttons": {
+    "A": "A", "B": "B", "X": "X", "Y": "Y",
+    "LB": "LB", "RB": "RB", "LT": "LT", "RT": "RT",
+    "BACK": "BACK", "START": "START", "GUIDE": "GUIDE",
+    "L3": "L3", "R3": "R3",
+    "UP": "DPAD_UP", "DOWN": "DPAD_DOWN", "LEFT": "DPAD_LEFT", "RIGHT": "DPAD_RIGHT"
+  },
+  "invert": { "LX": false, "LY": false, "RX": false, "RY": false },
+  "swap_sticks": false,
+  "deadzone": 0.06
+}
