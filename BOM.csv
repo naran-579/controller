@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Seeed XIAO RP2040,1,Seeed,$4.90,$4.90,https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html
 PCB,1,JLCPCB,$22.80,$22.80,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+74HC165 shift register,2,Digikey,$1.56,$3.12,https://www.digikey.com/en/products/detail/texas-instruments/SN74HC165N/376966?msockid=33ca4220a31467e91fb255f0a2cd6625
 Estimated total shipping,1,,,$0.00,
