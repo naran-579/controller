@@ -4194,16 +4194,6 @@
 		)
 		(uuid "2e63712d-ea08-470b-b3ef-f50db03344b7")
 	)
-	(label "BTN_A"
-		(at 63.5 52.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2e84610f-f994-4ee7-ac06-874f2e98ba05")
-	)
 	(label "BTN_Y"
 		(at 66.04 63.5 0)
 		(effects
@@ -4653,6 +4643,16 @@
 			(justify left bottom)
 		)
 		(uuid "d810c1f0-31a0-45fd-95b4-0fe12eb5516b")
+	)
+	(label "BTN_A"
+		(at 66.04 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e30e8549-513f-44b8-98a8-0db7bb02c916")
 	)
 	(label "BTN_RB"
 		(at 248.92 100.33 0)
